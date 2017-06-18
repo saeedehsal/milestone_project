@@ -4,5 +4,5 @@ gunicorn==19.3.0
 Jinja2==2.9.6
 oauth==1.0.1
 oauthlib==1.0.1
-requests>=2.2.1
+requests>=2.14.2
 simplejson==3.8.0
